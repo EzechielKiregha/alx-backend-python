@@ -1,3 +1,2 @@
-## Alx Backend Python
-
-This repository is dedicated to learn Python major concepts and best practices
+# 0x00-python_variable_annotations
+this about backend in python / best practices
